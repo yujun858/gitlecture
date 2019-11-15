@@ -1,2 +1,2 @@
-initial line
+initial lin
 add second line
